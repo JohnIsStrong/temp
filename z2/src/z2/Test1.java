@@ -12,6 +12,8 @@ public class Test1 {
 		System.out.println("w1....c4");
 		System.out.println("w....c3");
 		System.out.println("w......c10");
+		
+		System.out.println("w2.....c11");
 	}
 
 }
