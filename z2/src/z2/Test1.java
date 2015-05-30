@@ -8,6 +8,8 @@ public class Test1 {
 		System.out.println("continue....");
 		System.out.println("c1");
 		System.out.println("w1....c2");
+		
+		System.out.println("w1....c4");
 	}
 
 }
