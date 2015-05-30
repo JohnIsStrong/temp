@@ -7,6 +7,7 @@ public class Test1 {
 		System.out.println("branch.....");
 		System.out.println("continue....");
 		System.out.println("c1");
+		System.out.println("w1....c2");
 	}
 
 }
